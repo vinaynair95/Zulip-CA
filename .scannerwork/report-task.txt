@@ -1,0 +1,6 @@
+projectKey=CA-zulip
+serverUrl=http://127.0.0.1:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=CA-zulip
+ceTaskId=AYb05icZ85-jZ4g6KHuB
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYb05icZ85-jZ4g6KHuB

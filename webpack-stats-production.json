@@ -1,0 +1,1516 @@
+{
+  "status": "done",
+  "assets": {
+    "files/checkbox-green.1f4d72ab6f6dd39e2d70.svg": {
+      "name": "files/checkbox-green.1f4d72ab6f6dd39e2d70.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/checkbox-green.1f4d72ab6f6dd39e2d70.svg"
+    },
+    "files/zulip-logo.c2f7c79a6a6de7ba8726.svg": {
+      "name": "files/zulip-logo.c2f7c79a6a6de7ba8726.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-logo.c2f7c79a6a6de7ba8726.svg"
+    },
+    "files/arrow.488071f05b7a8e2c4c82.png": {
+      "name": "files/arrow.488071f05b7a8e2c4c82.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/arrow.488071f05b7a8e2c4c82.png"
+    },
+    "files/checkmark.14a40be3f3ba11947e8a.png": {
+      "name": "files/checkmark.14a40be3f3ba11947e8a.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/checkmark.14a40be3f3ba11947e8a.png"
+    },
+    "files/zulip-octopus.564449be533deb2244f0.png": {
+      "name": "files/zulip-octopus.564449be533deb2244f0.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-octopus.564449be533deb2244f0.png"
+    },
+    "files/pycon.06078201e43e80f6800d.jpg": {
+      "name": "files/pycon.06078201e43e80f6800d.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/pycon.06078201e43e80f6800d.jpg"
+    },
+    "files/pycon-drone.6b90ac2ecdd56cb11741.jpg": {
+      "name": "files/pycon-drone.6b90ac2ecdd56cb11741.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/pycon-drone.6b90ac2ecdd56cb11741.jpg"
+    },
+    "files/mit-lobby-7.6d752ac3178c277a3eec.jpg": {
+      "name": "files/mit-lobby-7.6d752ac3178c277a3eec.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/mit-lobby-7.6d752ac3178c277a3eec.jpg"
+    },
+    "files/security.4f0b7621ab49b40d482b.jpg": {
+      "name": "files/security.4f0b7621ab49b40d482b.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/security.4f0b7621ab49b40d482b.jpg"
+    },
+    "files/notifications.66e67b464b1a67604766.jpg": {
+      "name": "files/notifications.66e67b464b1a67604766.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/notifications.66e67b464b1a67604766.jpg"
+    },
+    "files/akamai.36405272b7e24c81e5bc.png": {
+      "name": "files/akamai.36405272b7e24c81e5bc.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/akamai.36405272b7e24c81e5bc.png"
+    },
+    "files/doctorondemand.0a380a456118ade76394.png": {
+      "name": "files/doctorondemand.0a380a456118ade76394.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/doctorondemand.0a380a456118ade76394.png"
+    },
+    "files/layershift.9a447b16f23366949ca4.png": {
+      "name": "files/layershift.9a447b16f23366949ca4.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/layershift.9a447b16f23366949ca4.png"
+    },
+    "files/recurse.9f902d1b5eb22d5a5c91.png": {
+      "name": "files/recurse.9f902d1b5eb22d5a5c91.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/recurse.9f902d1b5eb22d5a5c91.png"
+    },
+    "files/panjiva.b47d471cb5d49858b2ad.png": {
+      "name": "files/panjiva.b47d471cb5d49858b2ad.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/panjiva.b47d471cb5d49858b2ad.png"
+    },
+    "files/cambridge-mobile-telematics.1ea687829f0b5b7673ae.png": {
+      "name": "files/cambridge-mobile-telematics.1ea687829f0b5b7673ae.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/cambridge-mobile-telematics.1ea687829f0b5b7673ae.png"
+    },
+    "files/levelup.f929dd666d1821c4a240.png": {
+      "name": "files/levelup.f929dd666d1821c4a240.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/levelup.f929dd666d1821c4a240.png"
+    },
+    "files/mariadb.22e0a68197d38ee933d1.png": {
+      "name": "files/mariadb.22e0a68197d38ee933d1.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/mariadb.22e0a68197d38ee933d1.png"
+    },
+    "files/wikimedia-outreach.e763190f6dab74992229.png": {
+      "name": "files/wikimedia-outreach.e763190f6dab74992229.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/wikimedia-outreach.e763190f6dab74992229.png"
+    },
+    "files/mixxx.32b25e636c5456641129.png": {
+      "name": "files/mixxx.32b25e636c5456641129.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/mixxx.32b25e636c5456641129.png"
+    },
+    "files/waves.fff7ae65e423a855e94d.svg": {
+      "name": "files/waves.fff7ae65e423a855e94d.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/waves.fff7ae65e423a855e94d.svg"
+    },
+    "files/for-events.8c908956131bfe8191dd.jpg": {
+      "name": "files/for-events.8c908956131bfe8191dd.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/for-events.8c908956131bfe8191dd.jpg"
+    },
+    "files/for-education-cover.a422c57de5f4662f7d43.jpg": {
+      "name": "files/for-education-cover.a422c57de5f4662f7d43.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/for-education-cover.a422c57de5f4662f7d43.jpg"
+    },
+    "files/companies-laptop.73fc1ae3cae91cc1e97c.jpg": {
+      "name": "files/companies-laptop.73fc1ae3cae91cc1e97c.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/companies-laptop.73fc1ae3cae91cc1e97c.jpg"
+    },
+    "files/why-zulip-threads.7f0a3ccbdddb4e5861f5.jpg": {
+      "name": "files/why-zulip-threads.7f0a3ccbdddb4e5861f5.jpg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/why-zulip-threads.7f0a3ccbdddb4e5861f5.jpg"
+    },
+    "files/checkbox.5cc8e6c419aa3d443e73.svg": {
+      "name": "files/checkbox.5cc8e6c419aa3d443e73.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/checkbox.5cc8e6c419aa3d443e73.svg"
+    },
+    "files/white-zulip-logo-without-text.16fe7644bab4c1da6014.svg": {
+      "name": "files/white-zulip-logo-without-text.16fe7644bab4c1da6014.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/white-zulip-logo-without-text.16fe7644bab4c1da6014.svg"
+    },
+    "files/dropdown.d62299eeefdf1780a11d.png": {
+      "name": "files/dropdown.d62299eeefdf1780a11d.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/dropdown.d62299eeefdf1780a11d.png"
+    },
+    "files/SourceSans3-ExtraLight.ttf.b98163a5f7d32dca8ec8.woff2": {
+      "name": "files/SourceSans3-ExtraLight.ttf.b98163a5f7d32dca8ec8.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-ExtraLight.ttf.b98163a5f7d32dca8ec8.woff2"
+    },
+    "files/SourceSans3-ExtraLightIt.ttf.ac92dfe726b609262607.woff2": {
+      "name": "files/SourceSans3-ExtraLightIt.ttf.ac92dfe726b609262607.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-ExtraLightIt.ttf.ac92dfe726b609262607.woff2"
+    },
+    "files/SourceSans3-Light.ttf.0821bfd4c09b0446f4c8.woff2": {
+      "name": "files/SourceSans3-Light.ttf.0821bfd4c09b0446f4c8.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Light.ttf.0821bfd4c09b0446f4c8.woff2"
+    },
+    "files/SourceSans3-LightIt.ttf.6047f0e4077855a4946d.woff2": {
+      "name": "files/SourceSans3-LightIt.ttf.6047f0e4077855a4946d.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-LightIt.ttf.6047f0e4077855a4946d.woff2"
+    },
+    "files/SourceSans3-Regular.ttf.caaef8e3edc96bd60fd2.woff2": {
+      "name": "files/SourceSans3-Regular.ttf.caaef8e3edc96bd60fd2.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Regular.ttf.caaef8e3edc96bd60fd2.woff2"
+    },
+    "files/SourceSans3-It.ttf.07e9568bc36099d13146.woff2": {
+      "name": "files/SourceSans3-It.ttf.07e9568bc36099d13146.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-It.ttf.07e9568bc36099d13146.woff2"
+    },
+    "files/SourceSans3-Semibold.ttf.cda21b83df5fec5a9231.woff2": {
+      "name": "files/SourceSans3-Semibold.ttf.cda21b83df5fec5a9231.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Semibold.ttf.cda21b83df5fec5a9231.woff2"
+    },
+    "files/SourceSans3-SemiboldIt.ttf.a89f37ce71e2fe040ec9.woff2": {
+      "name": "files/SourceSans3-SemiboldIt.ttf.a89f37ce71e2fe040ec9.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-SemiboldIt.ttf.a89f37ce71e2fe040ec9.woff2"
+    },
+    "files/SourceSans3-Bold.ttf.9d6052bf4e6e3d84a3aa.woff2": {
+      "name": "files/SourceSans3-Bold.ttf.9d6052bf4e6e3d84a3aa.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Bold.ttf.9d6052bf4e6e3d84a3aa.woff2"
+    },
+    "files/SourceSans3-BoldIt.ttf.496950ebbe54deac3a1d.woff2": {
+      "name": "files/SourceSans3-BoldIt.ttf.496950ebbe54deac3a1d.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-BoldIt.ttf.496950ebbe54deac3a1d.woff2"
+    },
+    "files/SourceSans3-Black.ttf.533114fa975d9cd0176c.woff2": {
+      "name": "files/SourceSans3-Black.ttf.533114fa975d9cd0176c.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Black.ttf.533114fa975d9cd0176c.woff2"
+    },
+    "files/SourceSans3-BlackIt.ttf.550c778adfbb5cfa59e1.woff2": {
+      "name": "files/SourceSans3-BlackIt.ttf.550c778adfbb5cfa59e1.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-BlackIt.ttf.550c778adfbb5cfa59e1.woff2"
+    },
+    "files/SourceSans3-ExtraLight.otf.cd7927898068312fff61.woff": {
+      "name": "files/SourceSans3-ExtraLight.otf.cd7927898068312fff61.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-ExtraLight.otf.cd7927898068312fff61.woff"
+    },
+    "files/SourceSans3-ExtraLightIt.otf.b66edf83b883eb03f153.woff": {
+      "name": "files/SourceSans3-ExtraLightIt.otf.b66edf83b883eb03f153.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-ExtraLightIt.otf.b66edf83b883eb03f153.woff"
+    },
+    "files/SourceSans3-Light.otf.3f782768aae33fb9e363.woff": {
+      "name": "files/SourceSans3-Light.otf.3f782768aae33fb9e363.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Light.otf.3f782768aae33fb9e363.woff"
+    },
+    "files/SourceSans3-LightIt.otf.4825324a5a66149377e1.woff": {
+      "name": "files/SourceSans3-LightIt.otf.4825324a5a66149377e1.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-LightIt.otf.4825324a5a66149377e1.woff"
+    },
+    "files/SourceSans3-Regular.otf.44ea2d7e3ea354771638.woff": {
+      "name": "files/SourceSans3-Regular.otf.44ea2d7e3ea354771638.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Regular.otf.44ea2d7e3ea354771638.woff"
+    },
+    "files/SourceSans3-It.otf.401563ed3f08b7d6255f.woff": {
+      "name": "files/SourceSans3-It.otf.401563ed3f08b7d6255f.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-It.otf.401563ed3f08b7d6255f.woff"
+    },
+    "files/SourceSans3-Semibold.otf.dda873bcd2deb6c9dff1.woff": {
+      "name": "files/SourceSans3-Semibold.otf.dda873bcd2deb6c9dff1.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Semibold.otf.dda873bcd2deb6c9dff1.woff"
+    },
+    "files/SourceSans3-SemiboldIt.otf.ed2f695809889789005c.woff": {
+      "name": "files/SourceSans3-SemiboldIt.otf.ed2f695809889789005c.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-SemiboldIt.otf.ed2f695809889789005c.woff"
+    },
+    "files/SourceSans3-Bold.otf.bfec0edf876406782dc6.woff": {
+      "name": "files/SourceSans3-Bold.otf.bfec0edf876406782dc6.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Bold.otf.bfec0edf876406782dc6.woff"
+    },
+    "files/SourceSans3-BoldIt.otf.61c7bbe97e68933bbf42.woff": {
+      "name": "files/SourceSans3-BoldIt.otf.61c7bbe97e68933bbf42.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-BoldIt.otf.61c7bbe97e68933bbf42.woff"
+    },
+    "files/SourceSans3-Black.otf.a497a5d984b49c524fa8.woff": {
+      "name": "files/SourceSans3-Black.otf.a497a5d984b49c524fa8.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-Black.otf.a497a5d984b49c524fa8.woff"
+    },
+    "files/SourceSans3-BlackIt.otf.2b0a3cd70f8c72e67c4a.woff": {
+      "name": "files/SourceSans3-BlackIt.otf.2b0a3cd70f8c72e67c4a.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceSans3-BlackIt.otf.2b0a3cd70f8c72e67c4a.woff"
+    },
+    "files/SourceCodePro-ExtraLight.9a46e37e0a2cf5e048b1.otf": {
+      "name": "files/SourceCodePro-ExtraLight.9a46e37e0a2cf5e048b1.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLight.9a46e37e0a2cf5e048b1.otf"
+    },
+    "files/SourceCodePro-ExtraLightIt.365af7decd96084858a6.otf": {
+      "name": "files/SourceCodePro-ExtraLightIt.365af7decd96084858a6.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLightIt.365af7decd96084858a6.otf"
+    },
+    "files/SourceCodePro-Light.f342a7ec779d4d7a2ee6.otf": {
+      "name": "files/SourceCodePro-Light.f342a7ec779d4d7a2ee6.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Light.f342a7ec779d4d7a2ee6.otf"
+    },
+    "files/SourceCodePro-ExtraLight.3fa75838b460518713c4.ttf": {
+      "name": "files/SourceCodePro-ExtraLight.3fa75838b460518713c4.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLight.3fa75838b460518713c4.ttf"
+    },
+    "files/SourceCodePro-ExtraLightIt.1e0985b2379656710502.ttf": {
+      "name": "files/SourceCodePro-ExtraLightIt.1e0985b2379656710502.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLightIt.1e0985b2379656710502.ttf"
+    },
+    "files/SourceCodePro-Light.7692fdfb2d88e22bb70f.ttf": {
+      "name": "files/SourceCodePro-Light.7692fdfb2d88e22bb70f.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Light.7692fdfb2d88e22bb70f.ttf"
+    },
+    "files/SourceCodePro-LightIt.bb58b232c4e94c8a64a5.otf": {
+      "name": "files/SourceCodePro-LightIt.bb58b232c4e94c8a64a5.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-LightIt.bb58b232c4e94c8a64a5.otf"
+    },
+    "files/SourceCodePro-LightIt.ac04032587d9e8e9f1b9.ttf": {
+      "name": "files/SourceCodePro-LightIt.ac04032587d9e8e9f1b9.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-LightIt.ac04032587d9e8e9f1b9.ttf"
+    },
+    "files/SourceCodePro-Regular.594eed08cee0747e8a14.otf": {
+      "name": "files/SourceCodePro-Regular.594eed08cee0747e8a14.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Regular.594eed08cee0747e8a14.otf"
+    },
+    "files/SourceCodePro-Regular.2a8e5dd1b9561e93b029.ttf": {
+      "name": "files/SourceCodePro-Regular.2a8e5dd1b9561e93b029.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Regular.2a8e5dd1b9561e93b029.ttf"
+    },
+    "files/SourceCodePro-It.c9b042f019fd819523ab.otf": {
+      "name": "files/SourceCodePro-It.c9b042f019fd819523ab.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-It.c9b042f019fd819523ab.otf"
+    },
+    "files/SourceCodePro-It.27ac247f8440c60ebd5b.ttf": {
+      "name": "files/SourceCodePro-It.27ac247f8440c60ebd5b.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-It.27ac247f8440c60ebd5b.ttf"
+    },
+    "files/SourceCodePro-Medium.b57645f54ae71ae816e3.otf": {
+      "name": "files/SourceCodePro-Medium.b57645f54ae71ae816e3.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Medium.b57645f54ae71ae816e3.otf"
+    },
+    "files/SourceCodePro-Medium.1ef673311d0999bd0845.ttf": {
+      "name": "files/SourceCodePro-Medium.1ef673311d0999bd0845.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Medium.1ef673311d0999bd0845.ttf"
+    },
+    "files/SourceCodePro-MediumIt.dd625a9906a10c1b3413.otf": {
+      "name": "files/SourceCodePro-MediumIt.dd625a9906a10c1b3413.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-MediumIt.dd625a9906a10c1b3413.otf"
+    },
+    "files/SourceCodePro-MediumIt.e971dc6d589b81462070.ttf": {
+      "name": "files/SourceCodePro-MediumIt.e971dc6d589b81462070.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-MediumIt.e971dc6d589b81462070.ttf"
+    },
+    "files/SourceCodePro-ExtraLight.ttf.9a2d1789d072bcb58d66.woff2": {
+      "name": "files/SourceCodePro-ExtraLight.ttf.9a2d1789d072bcb58d66.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLight.ttf.9a2d1789d072bcb58d66.woff2"
+    },
+    "files/SourceCodePro-ExtraLightIt.ttf.c7124c5838a0bb9d0718.woff2": {
+      "name": "files/SourceCodePro-ExtraLightIt.ttf.c7124c5838a0bb9d0718.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLightIt.ttf.c7124c5838a0bb9d0718.woff2"
+    },
+    "files/SourceCodePro-Light.ttf.95316d52e3669e9327d2.woff2": {
+      "name": "files/SourceCodePro-Light.ttf.95316d52e3669e9327d2.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Light.ttf.95316d52e3669e9327d2.woff2"
+    },
+    "files/SourceCodePro-LightIt.ttf.83aaa30b42f593efae5a.woff2": {
+      "name": "files/SourceCodePro-LightIt.ttf.83aaa30b42f593efae5a.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-LightIt.ttf.83aaa30b42f593efae5a.woff2"
+    },
+    "files/SourceCodePro-Regular.ttf.fadd9f2bded6c92e70b1.woff2": {
+      "name": "files/SourceCodePro-Regular.ttf.fadd9f2bded6c92e70b1.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Regular.ttf.fadd9f2bded6c92e70b1.woff2"
+    },
+    "files/SourceCodePro-It.ttf.22df9e5063a397d85418.woff2": {
+      "name": "files/SourceCodePro-It.ttf.22df9e5063a397d85418.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-It.ttf.22df9e5063a397d85418.woff2"
+    },
+    "files/SourceCodePro-Medium.ttf.de4e0fc9b0bb0ff02b2f.woff2": {
+      "name": "files/SourceCodePro-Medium.ttf.de4e0fc9b0bb0ff02b2f.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Medium.ttf.de4e0fc9b0bb0ff02b2f.woff2"
+    },
+    "files/SourceCodePro-MediumIt.ttf.9a542e40c824951b2f0c.woff2": {
+      "name": "files/SourceCodePro-MediumIt.ttf.9a542e40c824951b2f0c.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-MediumIt.ttf.9a542e40c824951b2f0c.woff2"
+    },
+    "files/SourceCodePro-Semibold.ttf.d4420e97eacc0df955b3.woff2": {
+      "name": "files/SourceCodePro-Semibold.ttf.d4420e97eacc0df955b3.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Semibold.ttf.d4420e97eacc0df955b3.woff2"
+    },
+    "files/SourceCodePro-ExtraLight.otf.f93136b36638d97e57ec.woff": {
+      "name": "files/SourceCodePro-ExtraLight.otf.f93136b36638d97e57ec.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLight.otf.f93136b36638d97e57ec.woff"
+    },
+    "files/SourceCodePro-ExtraLightIt.otf.a43044d3166461762fad.woff": {
+      "name": "files/SourceCodePro-ExtraLightIt.otf.a43044d3166461762fad.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-ExtraLightIt.otf.a43044d3166461762fad.woff"
+    },
+    "files/SourceCodePro-Light.otf.df70c3a856c8c1c52191.woff": {
+      "name": "files/SourceCodePro-Light.otf.df70c3a856c8c1c52191.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Light.otf.df70c3a856c8c1c52191.woff"
+    },
+    "files/SourceCodePro-LightIt.otf.f7d81feaf5e375cfa94d.woff": {
+      "name": "files/SourceCodePro-LightIt.otf.f7d81feaf5e375cfa94d.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-LightIt.otf.f7d81feaf5e375cfa94d.woff"
+    },
+    "files/SourceCodePro-Regular.otf.8b0392773e38a1168f72.woff": {
+      "name": "files/SourceCodePro-Regular.otf.8b0392773e38a1168f72.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Regular.otf.8b0392773e38a1168f72.woff"
+    },
+    "files/SourceCodePro-It.otf.7d079312e0f1c11f173d.woff": {
+      "name": "files/SourceCodePro-It.otf.7d079312e0f1c11f173d.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-It.otf.7d079312e0f1c11f173d.woff"
+    },
+    "files/SourceCodePro-Medium.otf.6aab4805c74d8daada2c.woff": {
+      "name": "files/SourceCodePro-Medium.otf.6aab4805c74d8daada2c.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Medium.otf.6aab4805c74d8daada2c.woff"
+    },
+    "files/SourceCodePro-MediumIt.otf.7294701ba6f27fd0a489.woff": {
+      "name": "files/SourceCodePro-MediumIt.otf.7294701ba6f27fd0a489.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-MediumIt.otf.7294701ba6f27fd0a489.woff"
+    },
+    "files/SourceCodePro-Semibold.otf.2bf28c5593cdd4dfd27e.woff": {
+      "name": "files/SourceCodePro-Semibold.otf.2bf28c5593cdd4dfd27e.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Semibold.otf.2bf28c5593cdd4dfd27e.woff"
+    },
+    "files/SourceCodePro-Semibold.3d8ce8a444d136a226e2.otf": {
+      "name": "files/SourceCodePro-Semibold.3d8ce8a444d136a226e2.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Semibold.3d8ce8a444d136a226e2.otf"
+    },
+    "files/SourceCodePro-Semibold.519fd21aa0cf770e7f3a.ttf": {
+      "name": "files/SourceCodePro-Semibold.519fd21aa0cf770e7f3a.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Semibold.519fd21aa0cf770e7f3a.ttf"
+    },
+    "files/SourceCodePro-SemiboldIt.8d9d5753c196e807ad7b.otf": {
+      "name": "files/SourceCodePro-SemiboldIt.8d9d5753c196e807ad7b.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-SemiboldIt.8d9d5753c196e807ad7b.otf"
+    },
+    "files/SourceCodePro-SemiboldIt.92717c9fd4c0ab9b09ab.ttf": {
+      "name": "files/SourceCodePro-SemiboldIt.92717c9fd4c0ab9b09ab.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-SemiboldIt.92717c9fd4c0ab9b09ab.ttf"
+    },
+    "files/SourceCodePro-Bold.ce3c2230777d7089b045.otf": {
+      "name": "files/SourceCodePro-Bold.ce3c2230777d7089b045.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Bold.ce3c2230777d7089b045.otf"
+    },
+    "files/SourceCodePro-Bold.58396b19537299d2a628.ttf": {
+      "name": "files/SourceCodePro-Bold.58396b19537299d2a628.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Bold.58396b19537299d2a628.ttf"
+    },
+    "files/SourceCodePro-BoldIt.22a8b6aa2704c6bc2a4e.otf": {
+      "name": "files/SourceCodePro-BoldIt.22a8b6aa2704c6bc2a4e.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BoldIt.22a8b6aa2704c6bc2a4e.otf"
+    },
+    "files/SourceCodePro-BoldIt.fbf7ea7c287a976450cc.ttf": {
+      "name": "files/SourceCodePro-BoldIt.fbf7ea7c287a976450cc.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BoldIt.fbf7ea7c287a976450cc.ttf"
+    },
+    "files/SourceCodePro-SemiboldIt.ttf.6e9afcf5ca9ac5124040.woff2": {
+      "name": "files/SourceCodePro-SemiboldIt.ttf.6e9afcf5ca9ac5124040.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-SemiboldIt.ttf.6e9afcf5ca9ac5124040.woff2"
+    },
+    "files/SourceCodePro-SemiboldIt.otf.a9fa4663ee8128b8478b.woff": {
+      "name": "files/SourceCodePro-SemiboldIt.otf.a9fa4663ee8128b8478b.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-SemiboldIt.otf.a9fa4663ee8128b8478b.woff"
+    },
+    "files/SourceCodePro-Bold.ttf.fb731c620f945b0a3be7.woff2": {
+      "name": "files/SourceCodePro-Bold.ttf.fb731c620f945b0a3be7.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Bold.ttf.fb731c620f945b0a3be7.woff2"
+    },
+    "files/SourceCodePro-Bold.otf.a57305681411f183f5e5.woff": {
+      "name": "files/SourceCodePro-Bold.otf.a57305681411f183f5e5.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Bold.otf.a57305681411f183f5e5.woff"
+    },
+    "files/SourceCodePro-BoldIt.ttf.d2a3dc0c299e305e0bad.woff2": {
+      "name": "files/SourceCodePro-BoldIt.ttf.d2a3dc0c299e305e0bad.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BoldIt.ttf.d2a3dc0c299e305e0bad.woff2"
+    },
+    "files/SourceCodePro-BoldIt.otf.1f375102559ff28a260c.woff": {
+      "name": "files/SourceCodePro-BoldIt.otf.1f375102559ff28a260c.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BoldIt.otf.1f375102559ff28a260c.woff"
+    },
+    "files/SourceCodePro-Black.ttf.25b9e2c8d4bf7fb66c96.woff2": {
+      "name": "files/SourceCodePro-Black.ttf.25b9e2c8d4bf7fb66c96.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Black.ttf.25b9e2c8d4bf7fb66c96.woff2"
+    },
+    "files/SourceCodePro-Black.bda28cfdf039b0a44ab4.otf": {
+      "name": "files/SourceCodePro-Black.bda28cfdf039b0a44ab4.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Black.bda28cfdf039b0a44ab4.otf"
+    },
+    "files/SourceCodePro-Black.d2b4d257658ba4562673.ttf": {
+      "name": "files/SourceCodePro-Black.d2b4d257658ba4562673.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Black.d2b4d257658ba4562673.ttf"
+    },
+    "files/SourceCodePro-Black.otf.cabd53cde475af03a6fb.woff": {
+      "name": "files/SourceCodePro-Black.otf.cabd53cde475af03a6fb.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-Black.otf.cabd53cde475af03a6fb.woff"
+    },
+    "files/SourceCodePro-BlackIt.49a90b213bad86846471.otf": {
+      "name": "files/SourceCodePro-BlackIt.49a90b213bad86846471.otf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BlackIt.49a90b213bad86846471.otf"
+    },
+    "files/SourceCodePro-BlackIt.840ab830abe7ba35963b.ttf": {
+      "name": "files/SourceCodePro-BlackIt.840ab830abe7ba35963b.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BlackIt.840ab830abe7ba35963b.ttf"
+    },
+    "files/SourceCodePro-BlackIt.ttf.a9a074b46b3bb0615a65.woff2": {
+      "name": "files/SourceCodePro-BlackIt.ttf.a9a074b46b3bb0615a65.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BlackIt.ttf.a9a074b46b3bb0615a65.woff2"
+    },
+    "files/SourceCodePro-BlackIt.otf.e9d58bd792b9db2ed236.woff": {
+      "name": "files/SourceCodePro-BlackIt.otf.e9d58bd792b9db2ed236.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/SourceCodePro-BlackIt.otf.e9d58bd792b9db2ed236.woff"
+    },
+    "files/fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0": {
+      "name": "files/fontawesome-webfont.8b43027f47b20503057d.eot?v=4.7.0",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.8b43027f47b20503057d.eot"
+    },
+    "files/fontawesome-webfont.8b43027f47b20503057d.eot": {
+      "name": "files/fontawesome-webfont.8b43027f47b20503057d.eot",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.8b43027f47b20503057d.eot"
+    },
+    "files/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0": {
+      "name": "files/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.20fd1704ea223900efa9.woff2"
+    },
+    "files/fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0": {
+      "name": "files/fontawesome-webfont.f691f37e57f04c152e23.woff?v=4.7.0",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.f691f37e57f04c152e23.woff"
+    },
+    "files/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0": {
+      "name": "files/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf?v=4.7.0",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf"
+    },
+    "files/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0": {
+      "name": "files/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg?v=4.7.0",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg"
+    },
+    "files/KaTeX_AMS-Regular.73ea273a72f4aca30ca5.woff2": {
+      "name": "files/KaTeX_AMS-Regular.73ea273a72f4aca30ca5.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_AMS-Regular.73ea273a72f4aca30ca5.woff2"
+    },
+    "files/KaTeX_AMS-Regular.d562e886c52f12660a41.woff": {
+      "name": "files/KaTeX_AMS-Regular.d562e886c52f12660a41.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_AMS-Regular.d562e886c52f12660a41.woff"
+    },
+    "files/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf": {
+      "name": "files/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf"
+    },
+    "files/KaTeX_Caligraphic-Bold.a1abf90dfd72792a577a.woff2": {
+      "name": "files/KaTeX_Caligraphic-Bold.a1abf90dfd72792a577a.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Bold.a1abf90dfd72792a577a.woff2"
+    },
+    "files/KaTeX_Caligraphic-Bold.d757c535a2e5902f1325.woff": {
+      "name": "files/KaTeX_Caligraphic-Bold.d757c535a2e5902f1325.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Bold.d757c535a2e5902f1325.woff"
+    },
+    "files/KaTeX_Caligraphic-Bold.7489a2fbfb9bfe704420.ttf": {
+      "name": "files/KaTeX_Caligraphic-Bold.7489a2fbfb9bfe704420.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Bold.7489a2fbfb9bfe704420.ttf"
+    },
+    "files/KaTeX_Caligraphic-Regular.d6484fce1ef428d5bd94.woff2": {
+      "name": "files/KaTeX_Caligraphic-Regular.d6484fce1ef428d5bd94.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Regular.d6484fce1ef428d5bd94.woff2"
+    },
+    "files/KaTeX_Caligraphic-Regular.db074fa22cf224af93d7.woff": {
+      "name": "files/KaTeX_Caligraphic-Regular.db074fa22cf224af93d7.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Regular.db074fa22cf224af93d7.woff"
+    },
+    "files/KaTeX_Caligraphic-Regular.7e873d3833eb108a0758.ttf": {
+      "name": "files/KaTeX_Caligraphic-Regular.7e873d3833eb108a0758.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Caligraphic-Regular.7e873d3833eb108a0758.ttf"
+    },
+    "files/KaTeX_Fraktur-Bold.931d67ea207ab37ee693.woff2": {
+      "name": "files/KaTeX_Fraktur-Bold.931d67ea207ab37ee693.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Bold.931d67ea207ab37ee693.woff2"
+    },
+    "files/KaTeX_Fraktur-Bold.354501bac435c3264834.woff": {
+      "name": "files/KaTeX_Fraktur-Bold.354501bac435c3264834.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Bold.354501bac435c3264834.woff"
+    },
+    "files/KaTeX_Fraktur-Bold.4c761b3711973ab04edf.ttf": {
+      "name": "files/KaTeX_Fraktur-Bold.4c761b3711973ab04edf.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Bold.4c761b3711973ab04edf.ttf"
+    },
+    "files/KaTeX_Fraktur-Regular.172d3529b26f8cedef6b.woff2": {
+      "name": "files/KaTeX_Fraktur-Regular.172d3529b26f8cedef6b.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Regular.172d3529b26f8cedef6b.woff2"
+    },
+    "files/KaTeX_Fraktur-Regular.6fdf0ac577be0ba82a4c.woff": {
+      "name": "files/KaTeX_Fraktur-Regular.6fdf0ac577be0ba82a4c.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Regular.6fdf0ac577be0ba82a4c.woff"
+    },
+    "files/KaTeX_Fraktur-Regular.ed305b5434865e06ffde.ttf": {
+      "name": "files/KaTeX_Fraktur-Regular.ed305b5434865e06ffde.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Fraktur-Regular.ed305b5434865e06ffde.ttf"
+    },
+    "files/KaTeX_Main-Bold.39890742bc957b368704.woff2": {
+      "name": "files/KaTeX_Main-Bold.39890742bc957b368704.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Bold.39890742bc957b368704.woff2"
+    },
+    "files/KaTeX_Main-Bold.0c3b8929d377c0e9b2f3.woff": {
+      "name": "files/KaTeX_Main-Bold.0c3b8929d377c0e9b2f3.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Bold.0c3b8929d377c0e9b2f3.woff"
+    },
+    "files/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf": {
+      "name": "files/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf"
+    },
+    "files/KaTeX_Main-BoldItalic.20f389c4120be058d80a.woff2": {
+      "name": "files/KaTeX_Main-BoldItalic.20f389c4120be058d80a.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-BoldItalic.20f389c4120be058d80a.woff2"
+    },
+    "files/KaTeX_Main-BoldItalic.428978dc7837d46de091.woff": {
+      "name": "files/KaTeX_Main-BoldItalic.428978dc7837d46de091.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-BoldItalic.428978dc7837d46de091.woff"
+    },
+    "files/KaTeX_Main-BoldItalic.828abcb200061cffbaae.ttf": {
+      "name": "files/KaTeX_Main-BoldItalic.828abcb200061cffbaae.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-BoldItalic.828abcb200061cffbaae.ttf"
+    },
+    "files/KaTeX_Main-Italic.fe2176f79edaa716e621.woff2": {
+      "name": "files/KaTeX_Main-Italic.fe2176f79edaa716e621.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Italic.fe2176f79edaa716e621.woff2"
+    },
+    "files/KaTeX_Main-Italic.fd947498bc16392e76c2.woff": {
+      "name": "files/KaTeX_Main-Italic.fd947498bc16392e76c2.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Italic.fd947498bc16392e76c2.woff"
+    },
+    "files/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf": {
+      "name": "files/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Italic.fa675e5e4bec9eb250b6.ttf"
+    },
+    "files/KaTeX_Main-Regular.f650f111a3b890d116f1.woff2": {
+      "name": "files/KaTeX_Main-Regular.f650f111a3b890d116f1.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Regular.f650f111a3b890d116f1.woff2"
+    },
+    "files/KaTeX_Main-Regular.4f35fbcc9ee8614c2bcc.woff": {
+      "name": "files/KaTeX_Main-Regular.4f35fbcc9ee8614c2bcc.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Regular.4f35fbcc9ee8614c2bcc.woff"
+    },
+    "files/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf": {
+      "name": "files/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf"
+    },
+    "files/KaTeX_Math-BoldItalic.dcbcbd93bac0470b462d.woff2": {
+      "name": "files/KaTeX_Math-BoldItalic.dcbcbd93bac0470b462d.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-BoldItalic.dcbcbd93bac0470b462d.woff2"
+    },
+    "files/KaTeX_Math-BoldItalic.3f07ed67f06c720120ce.woff": {
+      "name": "files/KaTeX_Math-BoldItalic.3f07ed67f06c720120ce.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-BoldItalic.3f07ed67f06c720120ce.woff"
+    },
+    "files/KaTeX_Math-BoldItalic.bf2d440b3a42ea78a998.ttf": {
+      "name": "files/KaTeX_Math-BoldItalic.bf2d440b3a42ea78a998.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-BoldItalic.bf2d440b3a42ea78a998.ttf"
+    },
+    "files/KaTeX_Math-Italic.6d3d25f4820d0da8f01f.woff2": {
+      "name": "files/KaTeX_Math-Italic.6d3d25f4820d0da8f01f.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-Italic.6d3d25f4820d0da8f01f.woff2"
+    },
+    "files/KaTeX_Math-Italic.96759856b4e70f3a8338.woff": {
+      "name": "files/KaTeX_Math-Italic.96759856b4e70f3a8338.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-Italic.96759856b4e70f3a8338.woff"
+    },
+    "files/KaTeX_Math-Italic.8a5f936332e8028c7278.ttf": {
+      "name": "files/KaTeX_Math-Italic.8a5f936332e8028c7278.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Math-Italic.8a5f936332e8028c7278.ttf"
+    },
+    "files/KaTeX_SansSerif-Bold.95591a929f0d32aa282a.woff2": {
+      "name": "files/KaTeX_SansSerif-Bold.95591a929f0d32aa282a.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Bold.95591a929f0d32aa282a.woff2"
+    },
+    "files/KaTeX_SansSerif-Bold.b9cd458ac6d5889ff9c3.woff": {
+      "name": "files/KaTeX_SansSerif-Bold.b9cd458ac6d5889ff9c3.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Bold.b9cd458ac6d5889ff9c3.woff"
+    },
+    "files/KaTeX_SansSerif-Bold.5b49f4993ae22d7975b4.ttf": {
+      "name": "files/KaTeX_SansSerif-Bold.5b49f4993ae22d7975b4.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Bold.5b49f4993ae22d7975b4.ttf"
+    },
+    "files/KaTeX_SansSerif-Italic.7d393d382f3e7fb1c637.woff2": {
+      "name": "files/KaTeX_SansSerif-Italic.7d393d382f3e7fb1c637.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Italic.7d393d382f3e7fb1c637.woff2"
+    },
+    "files/KaTeX_SansSerif-Italic.8d593cfaa96238d5e2f8.woff": {
+      "name": "files/KaTeX_SansSerif-Italic.8d593cfaa96238d5e2f8.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Italic.8d593cfaa96238d5e2f8.woff"
+    },
+    "files/KaTeX_SansSerif-Italic.b257a18c016f37ee4543.ttf": {
+      "name": "files/KaTeX_SansSerif-Italic.b257a18c016f37ee4543.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Italic.b257a18c016f37ee4543.ttf"
+    },
+    "files/KaTeX_SansSerif-Regular.cd5e231e0cc53b2cb2c0.woff2": {
+      "name": "files/KaTeX_SansSerif-Regular.cd5e231e0cc53b2cb2c0.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Regular.cd5e231e0cc53b2cb2c0.woff2"
+    },
+    "files/KaTeX_SansSerif-Regular.02271ec5cb9f5b4588ac.woff": {
+      "name": "files/KaTeX_SansSerif-Regular.02271ec5cb9f5b4588ac.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Regular.02271ec5cb9f5b4588ac.woff"
+    },
+    "files/KaTeX_SansSerif-Regular.2f7bc363fc5424ebda59.ttf": {
+      "name": "files/KaTeX_SansSerif-Regular.2f7bc363fc5424ebda59.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_SansSerif-Regular.2f7bc363fc5424ebda59.ttf"
+    },
+    "files/KaTeX_Script-Regular.c81d1b2a4b75d3eded60.woff2": {
+      "name": "files/KaTeX_Script-Regular.c81d1b2a4b75d3eded60.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Script-Regular.c81d1b2a4b75d3eded60.woff2"
+    },
+    "files/KaTeX_Script-Regular.073b3402d036714b4370.woff": {
+      "name": "files/KaTeX_Script-Regular.073b3402d036714b4370.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Script-Regular.073b3402d036714b4370.woff"
+    },
+    "files/KaTeX_Script-Regular.fc9ba5249878cd8f8d88.ttf": {
+      "name": "files/KaTeX_Script-Regular.fc9ba5249878cd8f8d88.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Script-Regular.fc9ba5249878cd8f8d88.ttf"
+    },
+    "files/KaTeX_Size1-Regular.6eec866c69313624be60.woff2": {
+      "name": "files/KaTeX_Size1-Regular.6eec866c69313624be60.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size1-Regular.6eec866c69313624be60.woff2"
+    },
+    "files/KaTeX_Size1-Regular.0108e89c9003e8c14ea3.woff": {
+      "name": "files/KaTeX_Size1-Regular.0108e89c9003e8c14ea3.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size1-Regular.0108e89c9003e8c14ea3.woff"
+    },
+    "files/KaTeX_Size1-Regular.6de7d4b539221a49e9e2.ttf": {
+      "name": "files/KaTeX_Size1-Regular.6de7d4b539221a49e9e2.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size1-Regular.6de7d4b539221a49e9e2.ttf"
+    },
+    "files/KaTeX_Size2-Regular.2960900c4f271311eb36.woff2": {
+      "name": "files/KaTeX_Size2-Regular.2960900c4f271311eb36.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size2-Regular.2960900c4f271311eb36.woff2"
+    },
+    "files/KaTeX_Size2-Regular.3a99e70aee4076660d38.woff": {
+      "name": "files/KaTeX_Size2-Regular.3a99e70aee4076660d38.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size2-Regular.3a99e70aee4076660d38.woff"
+    },
+    "files/KaTeX_Size2-Regular.57f5c1837853986ea1db.ttf": {
+      "name": "files/KaTeX_Size2-Regular.57f5c1837853986ea1db.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size2-Regular.57f5c1837853986ea1db.ttf"
+    },
+    "files/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2": {
+      "name": "files/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2"
+    },
+    "files/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff": {
+      "name": "files/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff"
+    },
+    "files/KaTeX_Size3-Regular.8d6b6822586eea3d3b20.ttf": {
+      "name": "files/KaTeX_Size3-Regular.8d6b6822586eea3d3b20.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size3-Regular.8d6b6822586eea3d3b20.ttf"
+    },
+    "files/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2": {
+      "name": "files/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2"
+    },
+    "files/KaTeX_Size4-Regular.aeffd8025cba3647f1a6.woff": {
+      "name": "files/KaTeX_Size4-Regular.aeffd8025cba3647f1a6.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size4-Regular.aeffd8025cba3647f1a6.woff"
+    },
+    "files/KaTeX_Size4-Regular.4ad7c7e8bb8d10a34bb7.ttf": {
+      "name": "files/KaTeX_Size4-Regular.4ad7c7e8bb8d10a34bb7.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Size4-Regular.4ad7c7e8bb8d10a34bb7.ttf"
+    },
+    "files/KaTeX_Typewriter-Regular.c295e7f71970f03c0549.woff2": {
+      "name": "files/KaTeX_Typewriter-Regular.c295e7f71970f03c0549.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Typewriter-Regular.c295e7f71970f03c0549.woff2"
+    },
+    "files/KaTeX_Typewriter-Regular.4c6b94fd1d07f8beff7c.woff": {
+      "name": "files/KaTeX_Typewriter-Regular.4c6b94fd1d07f8beff7c.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Typewriter-Regular.4c6b94fd1d07f8beff7c.woff"
+    },
+    "files/KaTeX_Typewriter-Regular.c5c02d763c89380dcb4e.ttf": {
+      "name": "files/KaTeX_Typewriter-Regular.c5c02d763c89380dcb4e.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/KaTeX_Typewriter-Regular.c5c02d763c89380dcb4e.ttf"
+    },
+    "files/zulip-icons.0f6385458d9deed0f44b.eot": {
+      "name": "files/zulip-icons.0f6385458d9deed0f44b.eot",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-icons.0f6385458d9deed0f44b.eot"
+    },
+    "files/zulip-icons.0f6385458d9deed0f44b.woff": {
+      "name": "files/zulip-icons.0f6385458d9deed0f44b.woff",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-icons.0f6385458d9deed0f44b.woff"
+    },
+    "files/zulip-icons.0f6385458d9deed0f44b.woff2": {
+      "name": "files/zulip-icons.0f6385458d9deed0f44b.woff2",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-icons.0f6385458d9deed0f44b.woff2"
+    },
+    "files/zulip-icons.0f6385458d9deed0f44b.ttf": {
+      "name": "files/zulip-icons.0f6385458d9deed0f44b.ttf",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-icons.0f6385458d9deed0f44b.ttf"
+    },
+    "files/zulip-icons.0f6385458d9deed0f44b.svg": {
+      "name": "files/zulip-icons.0f6385458d9deed0f44b.svg",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/zulip-icons.0f6385458d9deed0f44b.svg"
+    },
+    "files/1f419.fb1ebe4a0ba630d4181b.png": {
+      "name": "files/1f419.fb1ebe4a0ba630d4181b.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/1f419.fb1ebe4a0ba630d4181b.png"
+    },
+    "files/64.15bc7ba6593001a4ef93.png": {
+      "name": "files/64.15bc7ba6593001a4ef93.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/64.15bc7ba6593001a4ef93.png"
+    },
+    "files/64.0cdafdf0b6596657a9be.png": {
+      "name": "files/64.0cdafdf0b6596657a9be.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/64.0cdafdf0b6596657a9be.png"
+    },
+    "files/64.45bff7f2e0b7b89dc51d.png": {
+      "name": "files/64.45bff7f2e0b7b89dc51d.png",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/files/64.45bff7f2e0b7b89dc51d.png"
+    },
+    "5xx.html": {
+      "name": "5xx.html",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/5xx.html"
+    },
+    "9bdbe616b1cc6e6ca82e.js": {
+      "name": "9bdbe616b1cc6e6ca82e.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/9bdbe616b1cc6e6ca82e.js"
+    },
+    "14.e79c1575434c2ab8e9fe.js.LICENSE.txt": {
+      "name": "14.e79c1575434c2ab8e9fe.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/14.e79c1575434c2ab8e9fe.js.LICENSE.txt"
+    },
+    "140.93825fc5d860a525f52f.js.LICENSE.txt": {
+      "name": "140.93825fc5d860a525f52f.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/140.93825fc5d860a525f52f.js.LICENSE.txt"
+    },
+    "240.6b8f90ea538bfdcc20b7.js.LICENSE.txt": {
+      "name": "240.6b8f90ea538bfdcc20b7.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/240.6b8f90ea538bfdcc20b7.js.LICENSE.txt"
+    },
+    "281.9b2a1d14b5f4d8aac0ac.js.LICENSE.txt": {
+      "name": "281.9b2a1d14b5f4d8aac0ac.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/281.9b2a1d14b5f4d8aac0ac.js.LICENSE.txt"
+    },
+    "404.1abf82279d4f71b1d7a5.js.LICENSE.txt": {
+      "name": "404.1abf82279d4f71b1d7a5.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/404.1abf82279d4f71b1d7a5.js.LICENSE.txt"
+    },
+    "602.21e129a4889d63223fb1.js.LICENSE.txt": {
+      "name": "602.21e129a4889d63223fb1.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/602.21e129a4889d63223fb1.js.LICENSE.txt"
+    },
+    "903.b492ff828ad53990e9bd.js.LICENSE.txt": {
+      "name": "903.b492ff828ad53990e9bd.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/903.b492ff828ad53990e9bd.js.LICENSE.txt"
+    },
+    "app.2c4649d29aae46ea3b21.js.LICENSE.txt": {
+      "name": "app.2c4649d29aae46ea3b21.js.LICENSE.txt",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/app.2c4649d29aae46ea3b21.js.LICENSE.txt"
+    },
+    "activity.c1677197f1f9f6bca910.css": {
+      "name": "activity.c1677197f1f9f6bca910.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/activity.c1677197f1f9f6bca910.css"
+    },
+    "activity.73004effa605a7340aa5.js": {
+      "name": "activity.73004effa605a7340aa5.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/activity.73004effa605a7340aa5.js"
+    },
+    "billing.8a534cea1ee9e198325d.css": {
+      "name": "billing.8a534cea1ee9e198325d.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing.8a534cea1ee9e198325d.css"
+    },
+    "billing.f408ef62aabdac33bd04.js": {
+      "name": "billing.f408ef62aabdac33bd04.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing.f408ef62aabdac33bd04.js"
+    },
+    "upgrade.8a534cea1ee9e198325d.css": {
+      "name": "upgrade.8a534cea1ee9e198325d.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/upgrade.8a534cea1ee9e198325d.css"
+    },
+    "upgrade.6ab0c351f5274f5d254f.js": {
+      "name": "upgrade.6ab0c351f5274f5d254f.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/upgrade.6ab0c351f5274f5d254f.js"
+    },
+    "billing-event-status.8a534cea1ee9e198325d.css": {
+      "name": "billing-event-status.8a534cea1ee9e198325d.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing-event-status.8a534cea1ee9e198325d.css"
+    },
+    "billing-event-status.e7540a2c29b8770be3d5.js": {
+      "name": "billing-event-status.e7540a2c29b8770be3d5.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing-event-status.e7540a2c29b8770be3d5.js"
+    },
+    "portico.f173bc3b65a9ccff02ba.css": {
+      "name": "portico.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/portico.f173bc3b65a9ccff02ba.css"
+    },
+    "portico.ee3dc6b513672146136b.js": {
+      "name": "portico.ee3dc6b513672146136b.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/portico.ee3dc6b513672146136b.js"
+    },
+    "error-styles.16f42de6c9a950e900ce.js": {
+      "name": "error-styles.16f42de6c9a950e900ce.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/error-styles.16f42de6c9a950e900ce.js"
+    },
+    "common.45d40394e24339f6e23b.js": {
+      "name": "common.45d40394e24339f6e23b.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/common.45d40394e24339f6e23b.js"
+    },
+    "help.f173bc3b65a9ccff02ba.css": {
+      "name": "help.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/help.f173bc3b65a9ccff02ba.css"
+    },
+    "help.f1675ba1465ec6394d07.js": {
+      "name": "help.f1675ba1465ec6394d07.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/help.f1675ba1465ec6394d07.js"
+    },
+    "landing-page.f8c96fe9347fcbf91ec1.js": {
+      "name": "landing-page.f8c96fe9347fcbf91ec1.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/landing-page.f8c96fe9347fcbf91ec1.js"
+    },
+    "integrations.1a88142099404d036789.js": {
+      "name": "integrations.1a88142099404d036789.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/integrations.1a88142099404d036789.js"
+    },
+    "communities.2a77b7bc75e366f030a2.js": {
+      "name": "communities.2a77b7bc75e366f030a2.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/communities.2a77b7bc75e366f030a2.js"
+    },
+    "signup.f173bc3b65a9ccff02ba.css": {
+      "name": "signup.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/signup.f173bc3b65a9ccff02ba.css"
+    },
+    "signup.a8da3ef9abbd2db26009.js": {
+      "name": "signup.a8da3ef9abbd2db26009.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/signup.a8da3ef9abbd2db26009.js"
+    },
+    "register.f173bc3b65a9ccff02ba.css": {
+      "name": "register.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/register.f173bc3b65a9ccff02ba.css"
+    },
+    "register.e36c810a8410e664e882.js": {
+      "name": "register.e36c810a8410e664e882.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/register.e36c810a8410e664e882.js"
+    },
+    "confirm-preregistrationuser.bb4abaa201e2131b4363.js": {
+      "name": "confirm-preregistrationuser.bb4abaa201e2131b4363.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/confirm-preregistrationuser.bb4abaa201e2131b4363.js"
+    },
+    "support.c1677197f1f9f6bca910.css": {
+      "name": "support.c1677197f1f9f6bca910.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/support.c1677197f1f9f6bca910.css"
+    },
+    "support.c08c02a87b082e284961.js": {
+      "name": "support.c08c02a87b082e284961.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/support.c08c02a87b082e284961.js"
+    },
+    "desktop-login.f173bc3b65a9ccff02ba.css": {
+      "name": "desktop-login.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-login.f173bc3b65a9ccff02ba.css"
+    },
+    "desktop-login.a977cf8a9e7a1e6842da.js": {
+      "name": "desktop-login.a977cf8a9e7a1e6842da.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-login.a977cf8a9e7a1e6842da.js"
+    },
+    "desktop-redirect.f173bc3b65a9ccff02ba.css": {
+      "name": "desktop-redirect.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-redirect.f173bc3b65a9ccff02ba.css"
+    },
+    "desktop-redirect.d16018034effbb12e9f6.js": {
+      "name": "desktop-redirect.d16018034effbb12e9f6.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-redirect.d16018034effbb12e9f6.js"
+    },
+    "stats.30e0cf5b87396f15b9c6.css": {
+      "name": "stats.30e0cf5b87396f15b9c6.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/stats.30e0cf5b87396f15b9c6.css"
+    },
+    "stats.2f5dd2e5fba9afeb189c.js": {
+      "name": "stats.2f5dd2e5fba9afeb189c.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/stats.2f5dd2e5fba9afeb189c.js"
+    },
+    "app.6445981ced21c28f1521.css": {
+      "name": "app.6445981ced21c28f1521.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/app.6445981ced21c28f1521.css"
+    },
+    "app.2c4649d29aae46ea3b21.js": {
+      "name": "app.2c4649d29aae46ea3b21.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/app.2c4649d29aae46ea3b21.js"
+    },
+    "digest.f173bc3b65a9ccff02ba.css": {
+      "name": "digest.f173bc3b65a9ccff02ba.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/digest.f173bc3b65a9ccff02ba.css"
+    },
+    "digest.9bdf1447e7b9c6689341.js": {
+      "name": "digest.9bdf1447e7b9c6689341.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/digest.9bdf1447e7b9c6689341.js"
+    },
+    "f1eebf27b4fa653321a2.js": {
+      "name": "f1eebf27b4fa653321a2.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/f1eebf27b4fa653321a2.js"
+    },
+    "140.626a69d5014e28b9a9a0.css": {
+      "name": "140.626a69d5014e28b9a9a0.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/140.626a69d5014e28b9a9a0.css"
+    },
+    "140.93825fc5d860a525f52f.js": {
+      "name": "140.93825fc5d860a525f52f.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/140.93825fc5d860a525f52f.js"
+    },
+    "903.b492ff828ad53990e9bd.js": {
+      "name": "903.b492ff828ad53990e9bd.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/903.b492ff828ad53990e9bd.js"
+    },
+    "462.a56f036bc2878cd998ea.js": {
+      "name": "462.a56f036bc2878cd998ea.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/462.a56f036bc2878cd998ea.js"
+    },
+    "945.176eaf9207b369228ee4.js": {
+      "name": "945.176eaf9207b369228ee4.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/945.176eaf9207b369228ee4.js"
+    },
+    "727.ae9b3cde558dc82d4048.js": {
+      "name": "727.ae9b3cde558dc82d4048.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/727.ae9b3cde558dc82d4048.js"
+    },
+    "134.3a32d088400f95e40807.js": {
+      "name": "134.3a32d088400f95e40807.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/134.3a32d088400f95e40807.js"
+    },
+    "506.e47f6a7963e1ce17515b.js": {
+      "name": "506.e47f6a7963e1ce17515b.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/506.e47f6a7963e1ce17515b.js"
+    },
+    "240.6b8f90ea538bfdcc20b7.js": {
+      "name": "240.6b8f90ea538bfdcc20b7.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/240.6b8f90ea538bfdcc20b7.js"
+    },
+    "324.7a7e0e661f29d0bcbabf.js": {
+      "name": "324.7a7e0e661f29d0bcbabf.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/324.7a7e0e661f29d0bcbabf.js"
+    },
+    "281.9b2a1d14b5f4d8aac0ac.js": {
+      "name": "281.9b2a1d14b5f4d8aac0ac.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/281.9b2a1d14b5f4d8aac0ac.js"
+    },
+    "14.e79c1575434c2ab8e9fe.js": {
+      "name": "14.e79c1575434c2ab8e9fe.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/14.e79c1575434c2ab8e9fe.js"
+    },
+    "602.469605f117f37c8ba9da.css": {
+      "name": "602.469605f117f37c8ba9da.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/602.469605f117f37c8ba9da.css"
+    },
+    "602.21e129a4889d63223fb1.js": {
+      "name": "602.21e129a4889d63223fb1.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/602.21e129a4889d63223fb1.js"
+    },
+    "fb4fec149a5d5dc10bf4.js": {
+      "name": "fb4fec149a5d5dc10bf4.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/fb4fec149a5d5dc10bf4.js"
+    },
+    "501.b41dc7f0530f05717c4f.js": {
+      "name": "501.b41dc7f0530f05717c4f.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/501.b41dc7f0530f05717c4f.js"
+    },
+    "404.1abf82279d4f71b1d7a5.js": {
+      "name": "404.1abf82279d4f71b1d7a5.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/404.1abf82279d4f71b1d7a5.js"
+    },
+    "904.6fc08a6d08822f500245.css": {
+      "name": "904.6fc08a6d08822f500245.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/904.6fc08a6d08822f500245.css"
+    },
+    "42.a406133081c9fba422db.css": {
+      "name": "42.a406133081c9fba422db.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/42.a406133081c9fba422db.css"
+    },
+    "42.fdba7316b8de35a42af3.js": {
+      "name": "42.fdba7316b8de35a42af3.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/42.fdba7316b8de35a42af3.js"
+    },
+    "943.1e121c7d6a705b4f275f.css": {
+      "name": "943.1e121c7d6a705b4f275f.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/943.1e121c7d6a705b4f275f.css"
+    },
+    "534.5174ed7de8d6d5dc4142.css": {
+      "name": "534.5174ed7de8d6d5dc4142.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/534.5174ed7de8d6d5dc4142.css"
+    },
+    "681.1c54f4c399b10c0430ac.js": {
+      "name": "681.1c54f4c399b10c0430ac.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/681.1c54f4c399b10c0430ac.js"
+    },
+    "753.1ba24e18f2e9ef410e18.js": {
+      "name": "753.1ba24e18f2e9ef410e18.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/753.1ba24e18f2e9ef410e18.js"
+    },
+    "666.8c537eec26f8d80f8340.js": {
+      "name": "666.8c537eec26f8d80f8340.js",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/666.8c537eec26f8d80f8340.js"
+    },
+    "160.6a139254e5a20e8f76bd.css": {
+      "name": "160.6a139254e5a20e8f76bd.css",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/160.6a139254e5a20e8f76bd.css"
+    },
+    "activity.c1677197f1f9f6bca910.css.map": {
+      "name": "activity.c1677197f1f9f6bca910.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/activity.c1677197f1f9f6bca910.css.map"
+    },
+    "activity.73004effa605a7340aa5.js.map": {
+      "name": "activity.73004effa605a7340aa5.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/activity.73004effa605a7340aa5.js.map"
+    },
+    "billing.8a534cea1ee9e198325d.css.map": {
+      "name": "billing.8a534cea1ee9e198325d.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing.8a534cea1ee9e198325d.css.map"
+    },
+    "billing.f408ef62aabdac33bd04.js.map": {
+      "name": "billing.f408ef62aabdac33bd04.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing.f408ef62aabdac33bd04.js.map"
+    },
+    "upgrade.8a534cea1ee9e198325d.css.map": {
+      "name": "upgrade.8a534cea1ee9e198325d.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/upgrade.8a534cea1ee9e198325d.css.map"
+    },
+    "upgrade.6ab0c351f5274f5d254f.js.map": {
+      "name": "upgrade.6ab0c351f5274f5d254f.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/upgrade.6ab0c351f5274f5d254f.js.map"
+    },
+    "billing-event-status.8a534cea1ee9e198325d.css.map": {
+      "name": "billing-event-status.8a534cea1ee9e198325d.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing-event-status.8a534cea1ee9e198325d.css.map"
+    },
+    "billing-event-status.e7540a2c29b8770be3d5.js.map": {
+      "name": "billing-event-status.e7540a2c29b8770be3d5.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/billing-event-status.e7540a2c29b8770be3d5.js.map"
+    },
+    "portico.f173bc3b65a9ccff02ba.css.map": {
+      "name": "portico.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/portico.f173bc3b65a9ccff02ba.css.map"
+    },
+    "portico.ee3dc6b513672146136b.js.map": {
+      "name": "portico.ee3dc6b513672146136b.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/portico.ee3dc6b513672146136b.js.map"
+    },
+    "error-styles.16f42de6c9a950e900ce.js.map": {
+      "name": "error-styles.16f42de6c9a950e900ce.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/error-styles.16f42de6c9a950e900ce.js.map"
+    },
+    "common.45d40394e24339f6e23b.js.map": {
+      "name": "common.45d40394e24339f6e23b.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/common.45d40394e24339f6e23b.js.map"
+    },
+    "help.f173bc3b65a9ccff02ba.css.map": {
+      "name": "help.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/help.f173bc3b65a9ccff02ba.css.map"
+    },
+    "help.f1675ba1465ec6394d07.js.map": {
+      "name": "help.f1675ba1465ec6394d07.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/help.f1675ba1465ec6394d07.js.map"
+    },
+    "landing-page.f8c96fe9347fcbf91ec1.js.map": {
+      "name": "landing-page.f8c96fe9347fcbf91ec1.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/landing-page.f8c96fe9347fcbf91ec1.js.map"
+    },
+    "integrations.1a88142099404d036789.js.map": {
+      "name": "integrations.1a88142099404d036789.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/integrations.1a88142099404d036789.js.map"
+    },
+    "communities.2a77b7bc75e366f030a2.js.map": {
+      "name": "communities.2a77b7bc75e366f030a2.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/communities.2a77b7bc75e366f030a2.js.map"
+    },
+    "signup.f173bc3b65a9ccff02ba.css.map": {
+      "name": "signup.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/signup.f173bc3b65a9ccff02ba.css.map"
+    },
+    "signup.a8da3ef9abbd2db26009.js.map": {
+      "name": "signup.a8da3ef9abbd2db26009.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/signup.a8da3ef9abbd2db26009.js.map"
+    },
+    "register.f173bc3b65a9ccff02ba.css.map": {
+      "name": "register.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/register.f173bc3b65a9ccff02ba.css.map"
+    },
+    "register.e36c810a8410e664e882.js.map": {
+      "name": "register.e36c810a8410e664e882.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/register.e36c810a8410e664e882.js.map"
+    },
+    "confirm-preregistrationuser.bb4abaa201e2131b4363.js.map": {
+      "name": "confirm-preregistrationuser.bb4abaa201e2131b4363.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/confirm-preregistrationuser.bb4abaa201e2131b4363.js.map"
+    },
+    "support.c1677197f1f9f6bca910.css.map": {
+      "name": "support.c1677197f1f9f6bca910.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/support.c1677197f1f9f6bca910.css.map"
+    },
+    "support.c08c02a87b082e284961.js.map": {
+      "name": "support.c08c02a87b082e284961.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/support.c08c02a87b082e284961.js.map"
+    },
+    "desktop-login.f173bc3b65a9ccff02ba.css.map": {
+      "name": "desktop-login.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-login.f173bc3b65a9ccff02ba.css.map"
+    },
+    "desktop-login.a977cf8a9e7a1e6842da.js.map": {
+      "name": "desktop-login.a977cf8a9e7a1e6842da.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-login.a977cf8a9e7a1e6842da.js.map"
+    },
+    "desktop-redirect.f173bc3b65a9ccff02ba.css.map": {
+      "name": "desktop-redirect.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-redirect.f173bc3b65a9ccff02ba.css.map"
+    },
+    "desktop-redirect.d16018034effbb12e9f6.js.map": {
+      "name": "desktop-redirect.d16018034effbb12e9f6.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/desktop-redirect.d16018034effbb12e9f6.js.map"
+    },
+    "stats.30e0cf5b87396f15b9c6.css.map": {
+      "name": "stats.30e0cf5b87396f15b9c6.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/stats.30e0cf5b87396f15b9c6.css.map"
+    },
+    "stats.2f5dd2e5fba9afeb189c.js.map": {
+      "name": "stats.2f5dd2e5fba9afeb189c.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/stats.2f5dd2e5fba9afeb189c.js.map"
+    },
+    "app.6445981ced21c28f1521.css.map": {
+      "name": "app.6445981ced21c28f1521.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/app.6445981ced21c28f1521.css.map"
+    },
+    "app.2c4649d29aae46ea3b21.js.map": {
+      "name": "app.2c4649d29aae46ea3b21.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/app.2c4649d29aae46ea3b21.js.map"
+    },
+    "digest.f173bc3b65a9ccff02ba.css.map": {
+      "name": "digest.f173bc3b65a9ccff02ba.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/digest.f173bc3b65a9ccff02ba.css.map"
+    },
+    "digest.9bdf1447e7b9c6689341.js.map": {
+      "name": "digest.9bdf1447e7b9c6689341.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/digest.9bdf1447e7b9c6689341.js.map"
+    },
+    "f1eebf27b4fa653321a2.js.map": {
+      "name": "f1eebf27b4fa653321a2.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/f1eebf27b4fa653321a2.js.map"
+    },
+    "140.626a69d5014e28b9a9a0.css.map": {
+      "name": "140.626a69d5014e28b9a9a0.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/140.626a69d5014e28b9a9a0.css.map"
+    },
+    "140.93825fc5d860a525f52f.js.map": {
+      "name": "140.93825fc5d860a525f52f.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/140.93825fc5d860a525f52f.js.map"
+    },
+    "903.b492ff828ad53990e9bd.js.map": {
+      "name": "903.b492ff828ad53990e9bd.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/903.b492ff828ad53990e9bd.js.map"
+    },
+    "462.a56f036bc2878cd998ea.js.map": {
+      "name": "462.a56f036bc2878cd998ea.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/462.a56f036bc2878cd998ea.js.map"
+    },
+    "945.176eaf9207b369228ee4.js.map": {
+      "name": "945.176eaf9207b369228ee4.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/945.176eaf9207b369228ee4.js.map"
+    },
+    "727.ae9b3cde558dc82d4048.js.map": {
+      "name": "727.ae9b3cde558dc82d4048.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/727.ae9b3cde558dc82d4048.js.map"
+    },
+    "134.3a32d088400f95e40807.js.map": {
+      "name": "134.3a32d088400f95e40807.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/134.3a32d088400f95e40807.js.map"
+    },
+    "506.e47f6a7963e1ce17515b.js.map": {
+      "name": "506.e47f6a7963e1ce17515b.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/506.e47f6a7963e1ce17515b.js.map"
+    },
+    "240.6b8f90ea538bfdcc20b7.js.map": {
+      "name": "240.6b8f90ea538bfdcc20b7.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/240.6b8f90ea538bfdcc20b7.js.map"
+    },
+    "324.7a7e0e661f29d0bcbabf.js.map": {
+      "name": "324.7a7e0e661f29d0bcbabf.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/324.7a7e0e661f29d0bcbabf.js.map"
+    },
+    "281.9b2a1d14b5f4d8aac0ac.js.map": {
+      "name": "281.9b2a1d14b5f4d8aac0ac.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/281.9b2a1d14b5f4d8aac0ac.js.map"
+    },
+    "14.e79c1575434c2ab8e9fe.js.map": {
+      "name": "14.e79c1575434c2ab8e9fe.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/14.e79c1575434c2ab8e9fe.js.map"
+    },
+    "602.469605f117f37c8ba9da.css.map": {
+      "name": "602.469605f117f37c8ba9da.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/602.469605f117f37c8ba9da.css.map"
+    },
+    "602.21e129a4889d63223fb1.js.map": {
+      "name": "602.21e129a4889d63223fb1.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/602.21e129a4889d63223fb1.js.map"
+    },
+    "fb4fec149a5d5dc10bf4.js.map": {
+      "name": "fb4fec149a5d5dc10bf4.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/fb4fec149a5d5dc10bf4.js.map"
+    },
+    "501.b41dc7f0530f05717c4f.js.map": {
+      "name": "501.b41dc7f0530f05717c4f.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/501.b41dc7f0530f05717c4f.js.map"
+    },
+    "404.1abf82279d4f71b1d7a5.js.map": {
+      "name": "404.1abf82279d4f71b1d7a5.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/404.1abf82279d4f71b1d7a5.js.map"
+    },
+    "904.6fc08a6d08822f500245.css.map": {
+      "name": "904.6fc08a6d08822f500245.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/904.6fc08a6d08822f500245.css.map"
+    },
+    "42.a406133081c9fba422db.css.map": {
+      "name": "42.a406133081c9fba422db.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/42.a406133081c9fba422db.css.map"
+    },
+    "42.fdba7316b8de35a42af3.js.map": {
+      "name": "42.fdba7316b8de35a42af3.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/42.fdba7316b8de35a42af3.js.map"
+    },
+    "943.1e121c7d6a705b4f275f.css.map": {
+      "name": "943.1e121c7d6a705b4f275f.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/943.1e121c7d6a705b4f275f.css.map"
+    },
+    "534.5174ed7de8d6d5dc4142.css.map": {
+      "name": "534.5174ed7de8d6d5dc4142.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/534.5174ed7de8d6d5dc4142.css.map"
+    },
+    "681.1c54f4c399b10c0430ac.js.map": {
+      "name": "681.1c54f4c399b10c0430ac.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/681.1c54f4c399b10c0430ac.js.map"
+    },
+    "753.1ba24e18f2e9ef410e18.js.map": {
+      "name": "753.1ba24e18f2e9ef410e18.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/753.1ba24e18f2e9ef410e18.js.map"
+    },
+    "666.8c537eec26f8d80f8340.js.map": {
+      "name": "666.8c537eec26f8d80f8340.js.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/666.8c537eec26f8d80f8340.js.map"
+    },
+    "160.6a139254e5a20e8f76bd.css.map": {
+      "name": "160.6a139254e5a20e8f76bd.css.map",
+      "path": "/tmp/tmp.10El1LfDIV/zulip-server-6.1/static/webpack-bundles/160.6a139254e5a20e8f76bd.css.map"
+    }
+  },
+  "chunks": {
+    "activity": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "281.9b2a1d14b5f4d8aac0ac.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "activity.c1677197f1f9f6bca910.css",
+      "activity.73004effa605a7340aa5.js"
+    ],
+    "billing": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "945.176eaf9207b369228ee4.js",
+      "506.e47f6a7963e1ce17515b.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "681.1c54f4c399b10c0430ac.js",
+      "666.8c537eec26f8d80f8340.js",
+      "billing.8a534cea1ee9e198325d.css",
+      "billing.f408ef62aabdac33bd04.js"
+    ],
+    "upgrade": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "462.a56f036bc2878cd998ea.js",
+      "945.176eaf9207b369228ee4.js",
+      "727.ae9b3cde558dc82d4048.js",
+      "506.e47f6a7963e1ce17515b.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "681.1c54f4c399b10c0430ac.js",
+      "666.8c537eec26f8d80f8340.js",
+      "upgrade.8a534cea1ee9e198325d.css",
+      "upgrade.6ab0c351f5274f5d254f.js"
+    ],
+    "billing-event-status": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "945.176eaf9207b369228ee4.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "billing-event-status.8a534cea1ee9e198325d.css",
+      "billing-event-status.e7540a2c29b8770be3d5.js"
+    ],
+    "portico": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "portico.f173bc3b65a9ccff02ba.css",
+      "portico.ee3dc6b513672146136b.js"
+    ],
+    "error-styles": [
+      "904.6fc08a6d08822f500245.css",
+      "943.1e121c7d6a705b4f275f.css",
+      "error-styles.16f42de6c9a950e900ce.js"
+    ],
+    "common": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "common.45d40394e24339f6e23b.js"
+    ],
+    "help": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "324.7a7e0e661f29d0bcbabf.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "help.f173bc3b65a9ccff02ba.css",
+      "help.f1675ba1465ec6394d07.js"
+    ],
+    "landing-page": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "945.176eaf9207b369228ee4.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "681.1c54f4c399b10c0430ac.js",
+      "landing-page.f8c96fe9347fcbf91ec1.js"
+    ],
+    "integrations": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "945.176eaf9207b369228ee4.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "160.6a139254e5a20e8f76bd.css",
+      "integrations.1a88142099404d036789.js"
+    ],
+    "communities": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "534.5174ed7de8d6d5dc4142.css",
+      "160.6a139254e5a20e8f76bd.css",
+      "communities.2a77b7bc75e366f030a2.js"
+    ],
+    "signup": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "462.a56f036bc2878cd998ea.js",
+      "727.ae9b3cde558dc82d4048.js",
+      "134.3a32d088400f95e40807.js",
+      "240.6b8f90ea538bfdcc20b7.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "753.1ba24e18f2e9ef410e18.js",
+      "signup.f173bc3b65a9ccff02ba.css",
+      "signup.a8da3ef9abbd2db26009.js"
+    ],
+    "register": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "462.a56f036bc2878cd998ea.js",
+      "727.ae9b3cde558dc82d4048.js",
+      "134.3a32d088400f95e40807.js",
+      "240.6b8f90ea538bfdcc20b7.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "753.1ba24e18f2e9ef410e18.js",
+      "register.f173bc3b65a9ccff02ba.css",
+      "register.e36c810a8410e664e882.js"
+    ],
+    "confirm-preregistrationuser": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "confirm-preregistrationuser.bb4abaa201e2131b4363.js"
+    ],
+    "support": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "281.9b2a1d14b5f4d8aac0ac.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "support.c1677197f1f9f6bca910.css",
+      "support.c08c02a87b082e284961.js"
+    ],
+    "desktop-login": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "501.b41dc7f0530f05717c4f.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "desktop-login.f173bc3b65a9ccff02ba.css",
+      "desktop-login.a977cf8a9e7a1e6842da.js"
+    ],
+    "desktop-redirect": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "404.1abf82279d4f71b1d7a5.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "desktop-redirect.f173bc3b65a9ccff02ba.css",
+      "desktop-redirect.d16018034effbb12e9f6.js"
+    ],
+    "stats": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "462.a56f036bc2878cd998ea.js",
+      "727.ae9b3cde558dc82d4048.js",
+      "14.e79c1575434c2ab8e9fe.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "stats.30e0cf5b87396f15b9c6.css",
+      "stats.2f5dd2e5fba9afeb189c.js"
+    ],
+    "app": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "462.a56f036bc2878cd998ea.js",
+      "506.e47f6a7963e1ce17515b.js",
+      "240.6b8f90ea538bfdcc20b7.js",
+      "324.7a7e0e661f29d0bcbabf.js",
+      "602.469605f117f37c8ba9da.css",
+      "602.21e129a4889d63223fb1.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "app.6445981ced21c28f1521.css",
+      "app.2c4649d29aae46ea3b21.js"
+    ],
+    "digest": [
+      "140.626a69d5014e28b9a9a0.css",
+      "140.93825fc5d860a525f52f.js",
+      "903.b492ff828ad53990e9bd.js",
+      "904.6fc08a6d08822f500245.css",
+      "42.a406133081c9fba422db.css",
+      "42.fdba7316b8de35a42af3.js",
+      "943.1e121c7d6a705b4f275f.css",
+      "digest.f173bc3b65a9ccff02ba.css",
+      "digest.9bdf1447e7b9c6689341.js"
+    ]
+  }
+}
